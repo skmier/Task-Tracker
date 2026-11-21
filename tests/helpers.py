@@ -1,4 +1,4 @@
-gi"""Small test utilities shared by several test modules."""
+
 
 from datetime import UTC, datetime, timedelta
 
